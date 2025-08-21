@@ -30,14 +30,14 @@ git clone https://github.com/mdalfaz/JSO-Encoder-Decoder.git
 cd JSO-Encoder-Decoder
 pip install -r requirements.txt
 python jso.py
-
+````
 # 🚀 My Security Tool
 
 This tool is built for **educational and pentesting purposes** only.  
 Use it responsibly and only on systems you are authorized to test.
 
 ---
-```
+
 ## 📥 Download
 
 👉 [Download Windows EXE](https://github.com/mdalfaz/JSO-Encoder-Decoder/blob/main/jso.exe)
