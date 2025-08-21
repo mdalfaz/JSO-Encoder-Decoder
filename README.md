@@ -4,6 +4,7 @@ A simple Python tool to **encode text into ASCII codes** and **decode ASCII code
 Useful for text obfuscation, learning ASCII encoding, or just fun projects.  
 
 ---
+<img width="1061" height="597" alt="Screenshot 2025-08-21 205812" src="https://github.com/user-attachments/assets/227a99f9-3f9e-4ede-8b7b-17a8f8bd1bd4" />
 
 ## Features
 
